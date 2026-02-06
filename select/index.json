@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ゲンチアナ (Slowed DOWN)",
+  "base_artist": "LonePi",
+  "createdAt": "2026-02-06T19:37:45.872289Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ゲンチアナ",
+      "artist": "LonePi",
+      "has_synced": false,
+      "path": "select/pl_01_ゲンチアナ_LonePi.txt"
+    }
+  ]
+}
